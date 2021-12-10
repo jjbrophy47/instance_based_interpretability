@@ -1,7 +1,5 @@
 # Notes on Instance-Based Interpretability
 
-[Sort by topic](README_TOPIC.md).
-
 <!--# 2022-->
 
 <!--Dang et al. [Group’s Influence Value in Logistic Regression Model and Gradient Boosting Model](https://link.springer.com/chapter/10.1007/978-981-16-2377-6_66). In ICICT-->
