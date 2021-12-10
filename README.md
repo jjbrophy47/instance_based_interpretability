@@ -1,4 +1,4 @@
-# Notes on Instance-Based Interpretability
+# Papers on Instance-Based Interpretability
 
 <!--# 2022-->
 
