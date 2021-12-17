@@ -1,5 +1,5 @@
-# Training Data Analysis Papers
-Papers related to instance-based interpretability (e.g. influence functions, prototypes, etc.), training dynamics, memorization/forgetting, etc.
+# Training-Data Analysis Papers
+Papers related to instance-based interpretability (e.g. influence functions, prototypes, etc.), measures computed via training dynamics, memorization/forgetting, etc.
 
 <!--# 2022-->
 
@@ -16,6 +16,8 @@ D'souza et al. [A Tale Of Two Long Tails](https://arxiv.org/abs/2107.13098). In 
 Hanawa et al. [Evaluation of Similarity-based Explanations](https://arxiv.org/abs/2006.04528). in ICLR 2021.
 
 Harutyunyan et al. [Estimating informativeness of samples with Smooth Unique Information](https://openreview.net/forum?id=kEnBH98BGs5). In ICLR 2021.
+
+Jiang et al. [Characterizing Structural Regularities of Labeled Data in Overparameterized Models](https://proceedings.mlr.press/v139/jiang21k.html). In ICML 2021.
 
 Kong and Chaudhuri. [Understanding Instance-based Interpretability of Variational Auto-Encoders](https://papers.nips.cc/paper/2021/hash/13d7dc096493e1f77fb4ccf3eaf79df1-Abstract.html). In NeurIPS 2021.
 
