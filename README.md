@@ -1,4 +1,5 @@
-# Papers on Instance-Based Interpretability
+# Training Data Analysis Papers
+Papers related to instance-based interpretability (e.g. influence functions, prototypes, etc.), training dynamics, memorization/forgetting, etc.
 
 <!--# 2022-->
 
@@ -9,6 +10,8 @@
 Basu et al. [Influence Functions in Deep Learning Are Fragile](https://openreview.net/forum?id=xHKVVHGDOEk). In ICLR 2021.
 
 Chen et al. [HyDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/16871). In AAAI 2021.
+
+D'souza et al. [A Tale Of Two Long Tails](https://arxiv.org/abs/2107.13098). In UDL-ICML Workshop 2021.
 
 Hanawa et al. [Evaluation of Similarity-based Explanations](https://arxiv.org/abs/2006.04528). in ICLR 2021.
 
@@ -71,6 +74,8 @@ Koh et al. [On the Accuracy of Influence Functions for Measuring Group Effects](
 ## 2018
 
 Scharchilev et al. [Finding Influential Training Samples for Gradient Boosted Decision Trees](http://proceedings.mlr.press/v80/sharchilev18a.html). In ICML 2018.
+
+Toneva et al. [An Empirical Study of Example Forgetting during Deep Neural Network Learning](https://arxiv.org/abs/1812.05159). In ICLR 2018.
 
 Yeh et al. [Representer Point Selection for Explaining Deep Neural Networks](https://proceedings.neurips.cc/paper/2018/hash/8a7129b8f3edd95b7d969dfc2c8e9d9d-Abstract.html). In NeurIPS 2018.
 
